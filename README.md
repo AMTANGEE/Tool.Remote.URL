@@ -4,6 +4,7 @@ This tool allows to control functions and forms in AMTANGEE with an url (amtange
 
 ## Requirements
 
+* AMTANGEE Partner Key for signing the assembly
 * .NET Framework 2.0
 * AMTANGEE Version >= 5.6
 
