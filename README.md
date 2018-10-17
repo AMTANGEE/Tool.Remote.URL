@@ -11,7 +11,7 @@ This tool allows to control functions and forms in AMTANGEE with an url (amtange
 ## Feedback 
 
 * Send us an email at support@amtangee.com
-* File an issue here in [GitHub](https://github.com/AMTANGEE/Tool.Remote.URL/issues)
+* File an issue here in [GitHub](https://github.com/AMTANGEE/Tools.Remote.URL/issues)
 
 ## License
 
